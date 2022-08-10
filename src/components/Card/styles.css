@@ -1,0 +1,11 @@
+.card-response {
+  background: #86bbd8;
+  min-height: 5vh;
+  border-radius: 12px;
+}
+
+.card-query {
+  background: #f6ae2d;
+  min-height: 5vh;
+  border-radius: 12px;
+}
