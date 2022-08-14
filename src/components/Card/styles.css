@@ -1,11 +1,15 @@
 .card-response {
   background: #86bbd8;
-  min-height: 5vh;
   border-radius: 12px;
+  margin-bottom: 8px;
+  margin-right: 36px;
+  font-size: 20px;
 }
 
 .card-query {
   background: #f6ae2d;
-  min-height: 5vh;
   border-radius: 12px;
+  margin-bottom: 8px;
+  margin-left: 36px;
+  font-size: 20px;
 }
