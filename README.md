@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Train times chat bot
 
 A chat bot app that responds to about train departures and train stations.
 
